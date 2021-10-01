@@ -1,4 +1,4 @@
-# Este es el _readme.md_ de Prueba
+# Este es el __readme.md__ de Prueba
 ## En un nuevo repositorio
 ### ¡Incluso tengo 3 cabeceras!
 
