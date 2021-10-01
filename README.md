@@ -1,6 +1,6 @@
 # Este es el _readme.md_ de Prueba
 ## En un nuevo repositorio
-### ¡Incluso tengo 3 cabeceras!
+### Horario de clases de los _Viernes_
 
 En este documento voy a poner el horario de clases que tengo el viernes por la mañana:
 1. Fundamentos de hardware.
