@@ -11,4 +11,5 @@ En este documento voy a poner el horario de clases que tengo el viernes por la m
 6. Lenguaje de marcas.
 
 Este es mi instituto:
+
 ![Mi instituto](https://ieslamarisma.net/images/slide/fachada.png)
