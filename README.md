@@ -1,4 +1,4 @@
-# Este es el __readme.md__ de Prueba
+# Este es el _readme.md_ de Prueba
 ## En un nuevo repositorio
 ### ¡Incluso tengo 3 cabeceras!
 
@@ -10,3 +10,5 @@ En este documento voy a poner el horario de clases que tengo el viernes por la m
 5. Formación y orientación laboral.
 6. Lenguaje de marcas.
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
