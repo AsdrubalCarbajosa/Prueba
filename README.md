@@ -13,3 +13,9 @@ En este documento voy a poner el horario de clases que tengo el viernes por la m
 Este es mi instituto:
 
 ![Mi instituto](https://ieslamarisma.net/images/slide/fachada.png)
+
+Clases que tengo antes del recreo | Clases que tengo despues del recreo
+--------------------------------- | -----------------------------------
+Fundamentos de hardware           | Planificación y administración de redes
+Implementación de Sist. Operativos| Implementación de Sist. Operativos
+Planificación y admin. de redes   | Lenguaje de marcas
