@@ -14,7 +14,7 @@ Este es mi instituto:
 
 ![Mi instituto](https://ieslamarisma.net/images/slide/fachada.png)
 
-Clases que tengo antes del recreo | Clases que tengo despues del recreo
+**Clases que tengo antes del recreo** | **Clases que tengo despues del recreo**
 --------------------------------- | -----------------------------------
 Fundamentos de hardware           | Planificación y administración de redes
 Implementación de Sist. Operativos| Implementación de Sist. Operativos
