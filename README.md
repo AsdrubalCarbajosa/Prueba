@@ -10,5 +10,4 @@ En este documento voy a poner el horario de clases que tengo el viernes por la m
 5. Formación y orientación laboral.
 6. Lenguaje de marcas.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Mi instituto](https://ieslamarisma.net/images/slide/fachada.png)
